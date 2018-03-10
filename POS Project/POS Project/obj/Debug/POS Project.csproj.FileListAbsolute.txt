@@ -1,0 +1,42 @@
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\POS Project.exe.config
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\POS Project.exe
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\POS Project.pdb
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\Microsoft.VisualStudio.ConnectedServices.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\Microsoft.VisualStudio.ConnectedServices.xml
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\POS Project.csprojResolveAssemblyReference.cache
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\POS Project.csproj.ResolveComReference.cache
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\POS_Project.Formtest.resources
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\POS_Project.LoginForm.resources
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\POS_Project.MainForm.resources
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\POS_Project.PrintForm.resources
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\POS_Project.ProductCategoryForm.resources
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\POS_Project.Properties.Resources.resources
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\POS_Project.ReceiveOrdersForm.resources
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\POS_Project.ReorderProductsFrom.resources
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\POS Project.csproj.GenerateResource.Cache
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\RdlCompile.cache
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\RdlCompile.compiled
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\POS Project.exe
+F:\Projects\C Sharp  Projects\POS Project\POS Project\obj\Debug\POS Project.pdb
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\Microsoft.SqlServer.Smo.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\Microsoft.SqlServer.Dmf.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\Projects\C Sharp  Projects\POS Project\POS Project\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll

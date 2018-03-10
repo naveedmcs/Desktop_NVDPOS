@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="POS_Project.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ShopName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">NayaSavera</Value>
+    </Setting>
+    <Setting Name="ShopMessage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Thankyou For Shopping</Value>
+    </Setting>
+    <Setting Name="ShopAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ABC Street, Z City etc</Value>
+    </Setting>
+    <Setting Name="ShopContact" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0123-1234567</Value>
+    </Setting>
+    <Setting Name="Connect_DB" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=.\SQLEXPRESS;Initial Catalog=SkyTechPOS_DB;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.\SQLEXPRESS;Initial Catalog=SkyTechPOS_DB;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="ReorderLevel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="ShopTermsAndConditions" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">lorem ipsum lorem ipsum lorem ipsum</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
